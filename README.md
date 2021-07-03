@@ -1,14 +1,6 @@
 # TypingFever
-___________             .__                 ___________                       
-\__    ___/__.__.______ |__| ____    ____   \_   _____/______  __ ___________ 
-  |    | <   |  |\____ \|  |/    \  / ___\   |    __)/ __ \  \/ // __ \_  __ \
-  |    |  \___  ||  |_> >  |   |  \/ /_/  >  |     \\  ___/\   /\  ___/|  | \/
-  |____|  / ____||   __/|__|___|  /\___  /   \___  / \___  >\_/  \___  >__|   
-          \/     |__|           \//_____/        \/      \/          \/       
 
-
-Hello, thanks for downloading me! 
-Feel free to donate to this project if you want!
+Hello, thanks for checking out this game!
 Keep in mind this is my first game I've ever made, so you may encounter some bugs!
 
 
