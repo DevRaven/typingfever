@@ -1,61 +1,3 @@
-'''
-
-Dont look in here, its super gross
-Dont look in here, its super gross
-Dont look in here, its super gross
-Dont look in here, its super gross
-Dont look in here, its super gross
-Dont look in here, its super gross
-Dont look in here, its super gross
-Dont look in here, its super gross
-Dont look in here, its super gross
-Dont look in here, its super gross
-Dont look in here, its super gross
-Dont look in here, its super gross
-Dont look in here, its super gross
-Dont look in here, its super gross
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-no im serious please dont :(
-
-'''
-
 import pygame, sys, json, ctypes, random, linecache
 from pygame.locals import *
 from random import randrange
@@ -723,7 +665,3 @@ def leaderboards(selected):
 		
 #start game
 startMenu(0)
-
-
-
-# you looked, im sorry if your eyes are bleeding now, dont blame me i warned you!
